@@ -23,6 +23,7 @@ Replacement `tsi1` indexes will be automatically generated on startup for shards
 ### Features
 
 1. [20537](https://github.com/influxdata/influxdb/pull/20537): Add `--overwrite-existing-v2` flag to `influxd upgrade` to overwrite existing files at output paths (instead of aborting).
+1. [20561](https://github.com/influxdata/influxdb/pull/20561): Add `nats-port` config option for `influxd` server.
 
 ### Bug Fixes
 

@@ -23,7 +23,7 @@ Replacement `tsi1` indexes will be automatically generated on startup for shards
 ### Features
 
 1. [20537](https://github.com/influxdata/influxdb/pull/20537): Add `--overwrite-existing-v2` flag to `influxd upgrade` to overwrite existing files at output paths (instead of aborting).
-1. [20467](https://github.com/influxdata/influxdb/pull/20467): Add `influxd inspect export-lp` command to extract data in line-protocol format.
+1. [20608](https://github.com/influxdata/influxdb/pull/20608): Add `influxd inspect export-lp` command to extract data in line-protocol format.
 
 ### Bug Fixes
 
